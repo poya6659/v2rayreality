@@ -1,0 +1,1 @@
+vless://0627af2a-c4b2-4334-d1f8-844f6ddec540@128.140.63.46:19908?type=tcp&security=reality&sni=yahoo.com&pbk=HYyIGuyNFslmcnNT7mrDdmuXwn4cm7smE_FZbYguKHQ&flow=&sid=f5ac7311&fp=firefox#baran%20%7C%20irancell-1
